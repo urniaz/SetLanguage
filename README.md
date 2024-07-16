@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c5a85bd9dfe417abedd8f49cabd5fae)](https://app.codacy.com/app/RafalUrniaz/SetLanguage?utm_source=github.com&utm_medium=referral&utm_content=RafalUrniaz/SetLanguage&utm_campaign=Badge_Grade_Dashboard)
+![Static Badge](https://img.shields.io/badge/A-brightgreen?style=flat&logo=Codacy&label=code%20quality)   ![](https://img.shields.io/badge/build-passing-brightgreen?style=flat&label=circleci)  ![CRAN/METACRAN License](https://img.shields.io/cran/l/kmeRs)  ![CRAN/METACRAN Version](https://img.shields.io/cran/v/kmeRs)
 
 
 # SetLanguage PowerPoint Add-in 
